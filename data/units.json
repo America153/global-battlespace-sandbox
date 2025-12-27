@@ -1,0 +1,6 @@
+{
+  "Infantry": { "type": "land", "speed": 5 },
+  "Armor": { "type": "land", "speed": 8 },
+  "Fighter": { "type": "air", "speed": 900 },
+  "Destroyer": { "type": "naval", "speed": 30 }
+}

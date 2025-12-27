@@ -1,0 +1,15 @@
+{
+  "HQ": {
+    "controls": ["Army", "Air", "Navy", "Intel"],
+    "radius_km": 300
+  },
+  "ArmyBase": {
+    "produces": ["Infantry", "Armor", "Artillery"]
+  },
+  "AirBase": {
+    "produces": ["Fighter", "Bomber", "Drone"]
+  },
+  "NavalBase": {
+    "produces": ["Destroyer", "Submarine", "Carrier"]
+  }
+}
